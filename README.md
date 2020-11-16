@@ -14,4 +14,4 @@
 - Statistics and Machine Learning Toolbox
 
 # How to use
-- Run project_main.m to generate plots
+- Run project_main.m to generate plots (Permission required for the data used to create plots)
